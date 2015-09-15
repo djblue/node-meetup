@@ -6,6 +6,7 @@ presentation was based on a fun project I worked on. Enjoy.
 
 ## links
 
+- [slide](http://djblue.github.io/node-meetup)
 - [WSDL group](http://www.meetup.com/West-Side-Developer-Legion/)
 - [youtube video](https://youtu.be/TLbh9JI1e80)
 - [fun project](https://github.com/djblue/node-relay)
